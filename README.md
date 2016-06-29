@@ -1,2 +1,1 @@
-# create_your-cloud
-Public repository for the 'create-your-cloud' repository.
+We're running a little webapp, that creates a out of the box Spring cloud infrastructure for you and for free. You can check it out on [https://www.create-your-cloud.com](www.create-your-cloud.com). We decided to store the code of this application in a private repository. But of course we need your help getting better. So this repository is for your (and our) tickets. If you want a awesome feature or you found a bug - feel free to open an issue here. 
